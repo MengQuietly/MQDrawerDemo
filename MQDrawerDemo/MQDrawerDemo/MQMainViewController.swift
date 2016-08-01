@@ -13,8 +13,8 @@ class MQMainViewController: MQDrawerTool {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        setUpMainView()
-//        setUpMainViewWithNav()
+//        setUpMainView()
+        setUpMainViewWithNav()
     }
     
     // MARK: - 设置不带 navigation 的视图
